@@ -1,0 +1,14 @@
+pageObjects\PridePage.class
+utils\DriverFactory1.class
+pageObjects\AddToCompare.class
+pageObjects\RegisterPage.class
+pageObjects\HomePage.class
+pageObjects\CheckOutPage.class
+pageObjects\BooksPage.class
+pageObjects\FahrenheitPage.class
+pageObjects\FirstPrizePies.class
+base\BasePage.class
+pageObjects\LoginPage.class
+utils\DriverUtils.class
+pageObjects\EmailAFriend.class
+pageObjects\DigitalDownloadsPage.class
